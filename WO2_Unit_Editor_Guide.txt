@@ -1,0 +1,23 @@
+This Editor was created by AGamer and is used for modding Unit Data in Warriors Orochi 2.
+
+Unit Data in warriors orochi 2 affects the units/characters but some values only affect the ai such as the weapon byte.
+Which means to have the correct weapon with the moveset you chose you need to modify the weapon in the equipment menu which this editor
+does not cover since that is handled in a different region.
+
+Guide for using:
+
+1. Place the script in the same directory as your Warriors Orochi 2 game.
+
+2. Rename the iso file to "WO2.iso"
+
+3. Extract the icons.zip folder in the same directory as the script since the script requires the icons(they must stay in the extracted folder)
+
+Extra Information:
+
+Please do not modify files the Editor creates outside of the Editor, mod the files with the Editor since the files created are custom formats
+that I designed. If you modify them outside the Editor then it may cause reading and writing issues. Please credit AGamer if you 
+create mods or videos using the Editor. I spent hundreds of hours building Editors for a lot of the Koei Tecmo games, please let me know if you have any questions
+or problems.
+
+Python is required if you only want to use the PYW file or you can use the Executable which does not require Python installed but the executable may
+give false virus warnings due to it being a Python script converted to an executable that doesn't require Python installed.

@@ -1,0 +1,28 @@
+THe Stage Editor and Coordinate Guider scripts were made by AGamer and are meant to be used with the US version of 
+Warriors Orochi 2. There aren't good patterns to search for to Stage Data in the ISO file so for now it only supports the US version of the game.
+
+Guide for using Stage Editor:
+
+1. Place the Stage Editor and Coordinate Guider scripts in the same directory as your game.
+
+2. Rename Warriors Orochi 2 iso file to "WO2.iso"
+
+3. Extract the maps and icons zip files in the same directory as the scripts(the Editors require that the image and icon files remain in their folders).
+
+Guide for using Coordinate Guider:
+
+The Coordinate Guider needs more testing by users, I used PCSX2 2.0 to dump the map textures but due to the way PCSX2 dumps images some of the
+map images may look incorrect like the map may appear flipped or have the castle and walls placed differently on the image compared to in the game.
+That is not the Coordinate Guider's fault, that is due to how some textures were dumped by PCSX2.
+I also scaled the maps to be about the size of the entire map so please let me know if you have any questions or issues but you shouldn't have any issues.
+
+1. Place the Stage Editor and Coordinate Guider scripts in the same directory as your game.
+
+2. Extract the maps and icons zip files in the same directory as the scripts(the Editors require that the image and icon files remain in their folders).
+
+Extra Info:
+The Stage Editor is version 0.9 until others have tested it, it works but getting feedback would help a lot before I release version 1.0
+Please do not modify files the Editors creates outside of the Editors, mod the files with the Editor since the files created are custom formats
+that I designed. If you modify them outside the Editors then it may cause reading and writing issues. Please credit AGamer if you 
+create mods or videos using the Editors. I spent hundreds of hours building Editors, testing them, and making mods for a lot of the Koei Tecmo games.
+Please let me know if you have any questions or problems.
