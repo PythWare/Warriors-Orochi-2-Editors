@@ -1,2 +1,1 @@
-# Warriors-Orochi-2-Editors
-Modding Editors for Warriors Orochi 2
+These are modding editors for Warriors Orochi 2. Credit goes to God(Christian), Michael for documentation on Warriors Orochi 2 Unit Data, and myself for the programming. I have included text files that explains how to use the Unit and Stage Editor. The coordinate guider script needs more testing, I didn't have time to test all 68 maps on the coordinate guider script but most if not all of the map images are scaled to the size of the ingame map and should work well with the X and Y coordinates. The map images may look incorrect with the positioning of the walls or parts of the map or looks flipped, that is due to how PCSX2 dumps the map images and not the scripts.
